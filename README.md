@@ -1,6 +1,5 @@
 # RandomlyChoose
-RandomlyChoose
-# Lottery Application
+RandomlyChoose a name
 
 ## Description
 This Python application allows users to randomly select a student from a provided Excel file. It utilizes the tkinter library for the graphical user interface (GUI) and openpyxl library for interacting with Excel files.
